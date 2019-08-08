@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node src/day0/DataTypes.js",
-    "dev": "nodemon src/day0/DataTypes.js"
+    "start": "node src/day2/Loops.js",
+    "dev": "nodemon src/day2/Loops.js"
   },
   "keywords": [],
   "author": "",
