@@ -2,10 +2,9 @@
   "name": "hackerrank-10-days-of-javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "start": "node src/day0/HelloWorld.js",
-    "dev": "nodemon src/day0/HelloWorld.js"
+    "start": "node src/day0/DataTypes.js",
+    "dev": "nodemon src/day0/DataTypes.js"
   },
   "keywords": [],
   "author": "",
