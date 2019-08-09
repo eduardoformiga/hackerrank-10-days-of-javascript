@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node src/day2/Loops.js",
-    "dev": "nodemon src/day2/Loops.js"
+    "start": "node src/day3/Arrays.js",
+    "dev": "nodemon src/day3/Arrays.js"
   },
   "keywords": [],
   "author": "",
